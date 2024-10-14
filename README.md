@@ -3,18 +3,21 @@ Official GearRo repository | Play any game with your shifter! Oficjalne repozyto
 
 ## Najnowsza wersja: 2.0
 
-### Ogólnie o GearRo:
-[![GearRo](https://img.youtube.com/vi/fIWp_K_R6ts/0.jpg)](https://www.youtube.com/watch?v=fIWp_K_R6ts)
-
-### Jak zainstalować, używać i nowości w wersji 1.9:
-[![GearRo19](https://img.youtube.com/vi/xSz78AJf6tQ/0.jpg)](https://www.youtube.com/watch?v=xSz78AJf6tQ)
-
 ## Siemka!
 ### Cieszę się, że ten dzień nareszcie nadszedł i po wielu trudnościach i przeciwnościach losu udało się w końcu wydać wersję 2.0
 
 ### Zanim przejdziemy dalej mam OGROMNĄ prośbę! Jeżeli masz propozycję co mógłbym dodać, zmienić lub poprawić, korzystając między innymi z komentarzy na YouTube, Discorda czy poprzez GitHuba daj mi znać!
 
 ### Dodatkowo od tej wersji głównym kanałem informacyjnym zostaje karta społeczności na YouTube. Będą się tam pojawiać informacje dotyczące prac nad GearRo, pytania, oraz ankiety. Gorąco zachęcam do subskrybowania i obserwacji!
+
+## ↓ Zmiany poniżej ↓
+
+### Ogólnie o GearRo:
+[![GearRo](https://img.youtube.com/vi/fIWp_K_R6ts/0.jpg)](https://www.youtube.com/watch?v=fIWp_K_R6ts)
+
+### Jak zainstalować, używać i nowości w wersji 1.9:
+[![GearRo19](https://img.youtube.com/vi/xSz78AJf6tQ/0.jpg)](https://www.youtube.com/watch?v=xSz78AJf6tQ)
+
 
 # Zmiany GearRo 2.0:
 
