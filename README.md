@@ -3,10 +3,10 @@ Official GearRo repository | Play any game with your shifter! Oficjalne repozyto
 
 ## Najnowsza wersja: 2.0
 
-# Ogólnie o GearRo:
+### Ogólnie o GearRo:
 [![GearRo](https://img.youtube.com/vi/fIWp_K_R6ts/0.jpg)](https://www.youtube.com/watch?v=fIWp_K_R6ts)
 
-# Jak zainstalować, używać i nowości w wersji 1.9:
+### Jak zainstalować, używać i nowości w wersji 1.9:
 [![GearRo19](https://img.youtube.com/vi/xSz78AJf6tQ/0.jpg)](https://www.youtube.com/watch?v=xSz78AJf6tQ)
 
 ## Siemka!
