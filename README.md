@@ -6,6 +6,8 @@ Official GearRo repository | Play any game with your shifter! Oficjalne repozyto
 # Film o GearRo:
 https://youtu.be/fIWp_K_R6ts?si=cm5xj6dv2TGvxt_K
 
+https://www.youtube.com/watch?v=fIWp_K_R6ts
+
 ## Siemka!
 ### Cieszę się, że ten dzień nareszcie nadszedł i po wielu trudnościach i przeciwnościach losu udało się w końcu wydać wersję 2.0
 
