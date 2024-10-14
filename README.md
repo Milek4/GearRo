@@ -8,6 +8,8 @@ https://youtu.be/fIWp_K_R6ts?si=cm5xj6dv2TGvxt_K
 
 https://www.youtube.com/watch?v=fIWp_K_R6ts
 
+[![GearRo](https://img.youtube.com/vi/fIWp_K_R6ts/0.jpg)](https://www.youtube.com/watch?v=fIWp_K_R6ts)
+
 ## Siemka!
 ### Cieszę się, że ten dzień nareszcie nadszedł i po wielu trudnościach i przeciwnościach losu udało się w końcu wydać wersję 2.0
 
