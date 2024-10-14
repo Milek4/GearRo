@@ -16,15 +16,25 @@ https://youtu.be/fIWp_K_R6ts?si=cm5xj6dv2TGvxt_K
 # Zmiany GearRo 2.0:
 
 •	**Scalenie wszystkich podaplikacji w jedną dużą – GearRo.exe**
-•	**Stworzenie graficznego interfejsu dla części praktycznej** – odpowiedzialnej za zmianę biegów w grze (Panel GearRo) 
+
+•	**Stworzenie graficznego interfejsu dla części praktycznej** – odpowiedzialnej za zmianę biegów w grze (Panel GearRo)
+
 •	Poprawienie błędu z niezapisywaniem konfiguracji _*zgłoszone przez użytkownika_
+
 •	Poprawienie działania panelu Sterowania - zmniejszono czas reakcji oraz poprawiono wykrywanie urządzeń
+
 •	**Naprawiono błąd dotyczący błędnego interpretowania GearRo jako wirus** _*zgłoszone przez użytkowników_
+
 •	Dodano ikonę GearRo w pasku aplikacji
+
 •	Dodano ikonę GearRo w pasku zadań
+
 •	Zmniejszono całkowity rozmiar GearRo
+
 •	Poprawiono optymalizację działania GearRo w grach
+
 •	Rozwiązano problem dotyczący pojawiania się niezidentyfikowanych błędów
+
 •	**W Panelu GearRo dodano przycisk „Powrót” pozwalający na łatwe powrócenie do ustawień**
 
 > Korzystając z przycisku „Powrót” otrzymujemy wiele korzyści, największą z nich jest zachowanie stanu skrzyni biegów (biegu) do czasu wznowienia działania
@@ -34,12 +44,15 @@ https://youtu.be/fIWp_K_R6ts?si=cm5xj6dv2TGvxt_K
 > Wcześniej w sytuacji gdy mieliśmy maksymalnie dostępne 5 biegów, po wrzuceniu biegu 6 lub 7 wbijany zostawał bieg maksymalny! Od tej wersji system został ten zmieniony i w sytuacji podanej powyżej żaden bieg nie zostanie wbity, czyli zostanie zachowany bieg poprzedni (przykład: Mamy bieg 4, maksymalny bieg pojazdu to 5, po wrzuceniu 6 nic się nie zmienia, wciąż jest bieg 4)
 
 •	Stworzono aktywne wiadomości w Panelu GearRo, które są aktualnie w wersji eksperymentalnej (wyświetlane są komunikaty informujące o nieznalezieniu przypisanego urządzenia, lub informacji o prawidłowym działaniu GearRo)
+
 •	Rozpoczęto prace nad narzędziem, które ułatwi przypisywanie biegów.
+
 •	Rozpoczęto bardzo wczesne prace nad systemem opartym na sieci neuronowej
 
 > pozwalającym na optymalniejsze, szybsze zmiany biegów, poprzez naukę zachowań użytkownika i sposobu zmiany biegów. Ale do wprowadzenia tej funkcji na masową skalę jeszcze musicie troszkę poczekać…
 
 I na koniec jako wisienka na torcie: 
+
 **Naprawiono błędy kosmetyczne**
 
 
