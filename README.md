@@ -3,7 +3,10 @@ Official GearRo repository | Play any game with your shifter! Oficjalne repozyto
 
 ## Najnowsza wersja: 2.1
 
------
+# Witajcie!
+## Chciałbym podzielić się z Wami informacją, że GearRo po 3 miesiącach został ukończony i wszelkie cele, jakie zostały ustalone przy rozpoczęciu prac, zostały osiągnięte!
+## Oczywiście, nie oznacza to, że nie będzie już aktualizacji - będą i teraz skupiać się będę bardziej na wprowadzaniu waszych propozycji <3
+### A więc bez zwlekania, zapraszam do poznania najnowszej wersji 2.1
 
 ## ↓ Zmiany poniżej ↓
 
