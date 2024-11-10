@@ -70,7 +70,7 @@ Podsumowując: Funkcja aktywnego luzu najlepiej działa kiedy mamy ustawiony w R
    - YouTube
    - Discord
 
-
+•	Ulepszono system sprawdzający wersję
 •	Zmieniono interface zapisu danych GearRo, na szybszy i wydajniejszy!
 •	Naprawiono błąd z przechwytywaniem niepożądanego urządzenia 
 
