@@ -1,20 +1,48 @@
 # GearRo
 Official GearRo repository | Play any game with your shifter! Oficjalne repozytorium GearRo | Zagraj w dowolną grę swoim shifterem!
 
-## Najnowsza wersja: 2.1
+## Najnowsza wersja: 2.2
 
-# Witajcie!
-## Chciałbym podzielić się z Wami informacją, że GearRo po 3 miesiącach został ukończony i wszelkie cele, jakie zostały ustalone przy rozpoczęciu prac, zostały osiągnięte!
-## Oczywiście, nie oznacza to, że nie będzie już aktualizacji - będą i teraz skupiać się będę bardziej na wprowadzaniu waszych propozycji <3
-### A więc bez zwlekania, zapraszam do poznania najnowszej wersji 2.1
+# Hejka!
+Po raz pierwszy w historii zdarza się taka sytuacja, kiedy w jednym miesiącu wypuszczane są dwie wersje!
+W tej wersji 2.2 głównie skupiłem się na rozwiązaniu wszystkich zgłoszonych problemów...
+Może nie jest to największa aktualizacja, ale za to usuwa wszystkie błędy z GearRo!
 
+### Zapraszam do pobierania aktualnie najlepszej wersji GearRo!
 ## ↓ Zmiany poniżej ↓
+
+# Zmiany GearRo 2.2:
+
+•	Naprawiono błąd, przy którym GearRo przechwytywał błędne zmiany biegów (np. naciśnięcie sprzęgła/innego przycisku)
+
+•	Dodano przycisk - Usuń dane
+> Funkcja ta jest przydatna, kiedy chcemy przypisać od zera nasze urządzenie, wyczyścić konfigurację, bądź w przypadku kiedy występuje błąd z plikiem całkowicie go usunąć w bezpieczny sposób.
+
+•	Naprawiono poważny błąd, przy którym przypisanie biegów po ponownym otwarciu okna było niemożliwe
+
+•	Naprawiono wszystkie błędy ze strony technicznej związane z utrzymywaniem w pamięci danych
+
+•	Naprawiono błąd z "pustym" otwieraniem zapisanych konfiguracji
+
+•	Naprawiono wszystkie błędy...
+
+Może nie jest to największa aktualizacja, ale usuwa wszystkie błędy z GearRo
+
 
 ### Ogólnie o GearRo:
 [![GearRo](https://img.youtube.com/vi/fIWp_K_R6ts/0.jpg)](https://www.youtube.com/watch?v=fIWp_K_R6ts)
 
 ### Jak zainstalować, używać (wersja 1.9):
 [![GearRo19](https://img.youtube.com/vi/xSz78AJf6tQ/0.jpg)](https://www.youtube.com/watch?v=xSz78AJf6tQ)
+
+# 
+
+# GearRo 2.1
+
+# Witajcie!
+## Chciałbym podzielić się z Wami informacją, że GearRo po 3 miesiącach został ukończony i wszelkie cele, jakie zostały ustalone przy rozpoczęciu prac, zostały osiągnięte!
+## Oczywiście, nie oznacza to, że nie będzie już aktualizacji - będą i teraz skupiać się będę bardziej na wprowadzaniu waszych propozycji <3
+### A więc bez zwlekania, zapraszam do poznania najnowszej wersji 2.1
 
 
 # Zmiany GearRo 2.1:
@@ -77,9 +105,7 @@ Podsumowując: Funkcja aktywnego luzu najlepiej działa kiedy mamy ustawiony w R
 •	Zmieniono interface zapisu danych GearRo, na szybszy i wydajniejszy!
 •	Naprawiono błąd z przechwytywaniem niepożądanego urządzenia 
 
-# GearRo 2.1
-
-# ------------------------------------------------------------------------------
+# 
 
 # GearRo 2.0
 
@@ -133,7 +159,7 @@ I na koniec jako wisienka na torcie:
 **Naprawiono błędy kosmetyczne**
 
 
-# ------------------------------------------------------------------------------
+# 
 
 # GearRo 1.9
 
